@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Kelvin Thuo
 
-Welcome to my GitHub profile!
-
-## 🚀 About Me
-
-I'm a passionate software engineer and a recent graduate of the [ALX Africa Software Engineering Program](https://www.alxafrica.com/). My training covered the foundations of software engineering, with hands-on experience in C, Python, and JavaScript. I honed my skills in problem solving, command-line proficiency, server setup, and developed a growth-focused mindset that drives my approach to technology.
+Backend Engineer focused on building real APIs, realtime systems and scalable backend services.
+I mainly use Node.js, PostgreSQL and Redis to build backend architecture that are being used by real-world applications.
 
 ## 💼 Professional Experience
 
 **Climate Wavers (Intern) — 2024**  
 At Climate Wavers, an NGO focused on climate advocacy, I contributed as a backend developer for their web application. My journey began with designing and deploying a static landing page to analyze web traffic and generate traction. Transitioning to backend development, I led a team of five, spearheading technical decisions, structuring the project, and kickstarting development.
 
-**Freelance & Collaborative Projects**  
-I actively collaborate with friends and local businesses, offering solutions that add value to their operations. This includes:
-- **Clengo (UK-based Cleaning Business):** Enhanced the UX/UI design, provided critical feedback, and developed frontend pages using React.
-- **Upwork & Local Businesses:** Delivered software solutions, often working in teams to meet diverse client needs.
+**What I'm Currently Working On**
+
+I am currently contributing to Clengo, a platform for managing a home cleaning business. I am working on backend services for the mobile app.
+
+The latest tasks I have completed include implementing real-time system features using WebSockets and Redis.
 
 ## 🛠️ Skills
 
